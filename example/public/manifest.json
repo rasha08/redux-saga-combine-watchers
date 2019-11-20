@@ -1,0 +1,8 @@
+{
+  "short_name": "redux-saga-combine-watchers",
+  "name": "redux-saga-combine-watchers",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
