@@ -1,10 +1,13 @@
 {
   "name": "redux-saga-combine-watchers",
-  "version": "1.0.0",
-  "description": "Redux-Saga wather combiner util",
+  "version": "1.0.2",
+  "description": "Redux-Saga combine watchers util",
   "author": "rasha08",
   "license": "MIT",
-  "repository": "rasha08/redux-saga-combine-watchers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasha08/redux-saga-combine-watchers.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -22,11 +25,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "dependencies": {},
-  "peerDependencies": {
-    "prop-types": "^15.5.4",
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "@svgr/rollup": "^2.4.1",
     "@types/jest": "^23.1.5",
@@ -51,5 +50,18 @@
   },
   "files": [
     "dist"
+  ],
+  "bugs": {
+    "url": "https://github.com/rasha08/redux-saga-combine-watchers/issues"
+  },
+  "homepage": "https://github.com/rasha08/redux-saga-combine-watchers#readme",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "redux-saga",
+    "redux-middleware"
   ]
 }
