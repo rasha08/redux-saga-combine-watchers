@@ -1,6 +1,6 @@
 {
   "name": "redux-saga-combine-watchers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Redux-Saga combine watchers util",
   "author": "rasha08",
   "license": "MIT",
